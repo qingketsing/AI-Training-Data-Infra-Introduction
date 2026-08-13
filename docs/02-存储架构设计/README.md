@@ -19,5 +19,6 @@ AI 训练场景中的存储系统，需要同时处理海量训练数据、模�
 - [2.2 远端存储层（Remote Storage Layer）](02-02-远端存储层（Remote-Storage-Layer）.md)
 - [2.3 缓存层（Cache Layer）](02-03-缓存层（Cache-Layer）.md)
 - [2.4 文件系统层（Filesystem Layer）](02-04-文件系统层（Filesystem-Layer）.md)
-- [2.4 小结](02-04-小结.md)
 - [2.5 基于 JuiceFS 的 AI 训练存储基座实践](02-05-基于-JuiceFS-的-AI-训练存储基座实践.md)
+- [2.6 存储数据控制平面设计](02-06-存储数据控制平面设计.md)
+- [2.7 小结](02-07-小结.md)
